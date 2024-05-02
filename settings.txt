@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ]
+}
